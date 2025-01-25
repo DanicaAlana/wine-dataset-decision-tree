@@ -16,6 +16,7 @@ This project is created for Digital Skill Fair (DSF) 35.0 - Data Science by Dibi
 3. Identify which features are most important in predicting wine types.
 
 **Conclusion**
+
 The trained Decision Tree model was able to classify wine types with very high accuracy. These results show that Decision Tree is an effective model for wine type classification, with an accuracy of 94%.
 
 If you have any questions, suggestions or feedbacks, please do not hesitate to reach me out through Email or LinkedIn: rsgame99@gmail.com or linkedin.com/in/danica-alana-sjurjahady-85b124211/
